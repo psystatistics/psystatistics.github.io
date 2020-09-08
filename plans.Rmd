@@ -1,0 +1,14 @@
+---
+title: "Материалы"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+### Занятие 9 сентября 
+ 
+#### Семинар 1
+ 
+<a href="psy_seminar1_2020.pdf" title=>Задания</a>
+ 

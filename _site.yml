@@ -1,0 +1,13 @@
+output_dir: "."
+navbar:
+  title: "Математические и статистические методы в психологии, 2020"
+  left:
+    - text: "Материалы"
+      href: plans.html
+    - text: "Важные даты"
+      href: deadlines.html
+  right: 
+    - text: "Help! Напиши Дарье"
+      icon: fa-envelope-o
+      href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
+ 
