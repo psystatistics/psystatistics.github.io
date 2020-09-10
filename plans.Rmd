@@ -5,10 +5,14 @@ output:
     toc: true
     toc_depth: 3
     toc_float: true
+    theme: united
 ---
 ### Занятие 9 сентября 
  
 #### Семинар 1
  
-<a href="psy_seminar1_2020.pdf" title=>Задания</a>
+<a href="psy_seminar1_UPD.pdf" title=>Задания (UPD)</a>
+
+<a href="psy_hw1_2020.pdf" title=>Домашнее задание 1</a>
+
  
