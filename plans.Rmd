@@ -7,15 +7,14 @@ output:
     toc_float: true
     theme: united
 ---
-### Занятие 9 сентября 
  
-#### Семинар 1
+#### Семинар 1 (9 сентября)
  
 <a href="psy_seminar1_UPD.pdf" title=>Задания (UPD)</a>
 
 <a href="psy_hw1_2020.pdf" title=>Домашнее задание 1</a>
 
-#### Семинар 2
+#### Семинар 2 (16 сентября)
 
 <a href="psy_seminar_2.pdf" title=>Задания </a>
 
