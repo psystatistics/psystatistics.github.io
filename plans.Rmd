@@ -15,4 +15,9 @@ output:
 
 <a href="psy_hw1_2020.pdf" title=>Домашнее задание 1</a>
 
- 
+#### Семинар 2
+
+<a href="psy_seminar_2.pdf" title=>Задания </a>
+
+<a href="psy_hw2.pdf" title=>Домашнее задание 2</a>
+
