@@ -18,5 +18,9 @@ output:
 
 <a href="psy_seminar_2.pdf" title=>Задания </a>
 
-<a href="psy_hw2.pdf" title=>Домашнее задание 2</a>
+Подготовка к проверочной работе: <a href="psy_hw2.pdf" title=>Домашнее задание 2</a>
+
+К семинару 23 сентября: <a href="psy_hw3.pdf" title=>Домашнее задание 3 </a>
+
+
 
