@@ -14,6 +14,8 @@ output:
 
 <a href="psy_hw1_2020.pdf" title=>Домашнее задание 1</a>
 
+<a href="psy_hw1_solution.pdf" title=>Решение дз 1 (дополнительные задачи)</a>
+
 ### Семинар 2 (16 сентября)
 
 <a href="psy_seminar_2.pdf" title=>Задания </a>
@@ -22,5 +24,12 @@ output:
 
 К семинару 23 сентября: <a href="psy_hw3.pdf" title=>Домашнее задание 3 </a>
 
+Мини-тест 1: 
+
+<a href="psy2020_test1_1.pdf" title=>Вариант 1</a>
+
+<a href="psy2020_test1_2.pdf" title=>Вариант 2</a>
+
+<a href="psy2020_test1_3.pdf" title=>Вариант 3</a>
 
 
