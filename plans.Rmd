@@ -30,7 +30,7 @@ output:
 
 <a href="psy2020_test1_2.pdf" title=>Вариант 2</a>
 
-<a href="psy2020_test1_3.pdf" title=>Вариант 3</a>
+<a href="psy2020_test1_3.pdf" title=>Вариант 3 </a>
 
 ### Семинар 3 (23 сентября)
 
