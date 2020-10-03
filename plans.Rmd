@@ -42,4 +42,4 @@ output:
 
 К семинару 7 октября (подготовка к проверочной работе №2): <a href="psy_hw5_2020.pdf" title=>Домашнее задание 5 </a>
 
-
+Резюме: <a href="psy_LO1.pdf" title=> Learning outcomes №1 </a>
