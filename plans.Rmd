@@ -54,3 +54,11 @@ output:
 
 <a href="psy_EXEY.pdf" title=> Почему для независимых сл.в. EXY = EXEY? Подсказка </a>
 
+Мини-тест 2: 
+
+<a href="psy_test2_1.pdf" title=>Вариант 1</a>
+
+<a href="psy_test2_2.pdf" title=>Вариант 2</a>
+
+<a href="psy_test2_3.pdf" title=>Вариант 3 </a>
+
