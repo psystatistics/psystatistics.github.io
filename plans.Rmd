@@ -62,3 +62,34 @@ output:
 
 <a href="psy_test2_3.pdf" title=>Вариант 3 </a>
 
+### Семинар 6
+
+<a href="psy_seminar6_2020.pdf" title=>Семинар 6 </a>
+
+### Семинар 7
+
+<a href="psy_seminar7_2020.pdf" title=>Семинар 7 </a>
+
+### Семинар 8
+
+<a href="psy_seminar8_2020.pdf" title=>Семинар 8 </a>
+
+<a href="Student_distribution.pdf" title=>Таблица распределения Стьюдента </a>
+
+### Семинар 9
+
+<a href="psy_seminar9_2020.pdf" title=>Семинар 9 </a>
+
+<a href="psy_hw6_2020.pdf" title=>Домашнее задание </a>
+
+<a href="psy_hypothesis_testing.pdf" title=> Презентация по логике проверки гипотез </a>
+
+### Семинар 10
+
+<a href="psy_seminar10_2020.pdf" title=>Семинар 10 </a>
+
+<a href="psy_hw_solution.pdf" title=>Домашнее задание для тренировки с ответами</a>
+
+
+
+
