@@ -74,7 +74,7 @@ output:
 
 <a href="psy_seminar8_2020.pdf" title=>Семинар 8 </a>
 
-<a href="Student_distribution.pdf" title=>Таблица распределения Стьюдента </a>
+<a href="Student-distribution.pdf" title=>Таблица распределения Стьюдента </a>
 
 ### Семинар 9
 
