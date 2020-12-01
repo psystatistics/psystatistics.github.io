@@ -90,6 +90,12 @@ output:
 
 <a href="psy_hw_solution.pdf" title=>Домашнее задание для тренировки с ответами</a>
 
+Мини-тест 3: 
 
+<a href="psy_test3_1.pdf" title=>Пример 1</a>
+
+<a href="psy_test3_2.pdf" title=>Пример 2</a>
+
+<a href="psy_test3_3.pdf" title=>Пример 3</a>
 
 
