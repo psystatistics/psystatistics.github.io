@@ -98,4 +98,9 @@ output:
 
 <a href="psy_test3_3.pdf" title=>Пример 3</a>
 
+### Семинар 11
+
+<a href="psy_seminar11.pdf" title=>Семинар 11 </a>
+
+<a href="psy_hw8_2020.pdf" title=>Домашнее задание</a>
 
